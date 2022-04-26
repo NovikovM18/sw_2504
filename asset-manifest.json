@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/sw_2504/static/css/main.28f96cd2.css",
+    "main.js": "/github.io/sw_2504/static/js/main.297e936c.js",
+    "index.html": "/github.io/sw_2504/index.html",
+    "main.28f96cd2.css.map": "/github.io/sw_2504/static/css/main.28f96cd2.css.map",
+    "main.297e936c.js.map": "/github.io/sw_2504/static/js/main.297e936c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f96cd2.css",
+    "static/js/main.297e936c.js"
+  ]
+}
